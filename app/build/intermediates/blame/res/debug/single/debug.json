@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_kick.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\kick.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_crashm.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\crashm.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ride1.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\ride1.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_floor1.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\floor1.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_closehh.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\closehh.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_crash1.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\crash1.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_tom1.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\tom1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_kakq.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\kakq.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kick2.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\kick2.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tom.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\tom.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_floor.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\floor.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_tom2.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\tom2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_closehh.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\closehh.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_snare1.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\snare1.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_snare.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\snare.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_snare.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\snare.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_image.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kick.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\kick.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tiles2.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\tiles2.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_crashl.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\crashl.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_openhh.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\openhh.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_ride.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\ride.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_carpet.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\carpet.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_floor.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\floor.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wood.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\wood.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drum.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\drum.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_new_kick.m4a.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\new_kick.m4a"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_kick2.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\kick2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tom1.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\tom1.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_tom3.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\tom3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cymbal.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\cymbal.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_crashr.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\crashr.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kick1.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\kick1.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\raw_openhh.mp3.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\raw\\openhh.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tiles.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\tiles.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Adil\\.gradle\\caches\\transforms-3\\f7499049ef9c1fcc4ba34175079518cb\\transformed\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sowoa.png.flat",
+        "source": "C:\\Users\\Adil\\Downloads\\Drum set\\app\\src\\main\\res\\drawable-xhdpi\\sowoa.png"
+    }
+]

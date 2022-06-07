@@ -1,0 +1,302 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/background"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="#FFFFFF"
+		android:orientation="horizontal">
+		<LinearLayout
+			android:id="@+id/linear15"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:padding="8dp"
+			android:orientation="vertical">
+			<Button
+				android:id="@+id/piece"
+				android:layout_width="wrap_content"
+				android:layout_height="50dp"
+				android:padding="8dp"
+				android:text="background"
+				android:textSize="12sp"
+				android:textStyle="bold"
+				android:textColor="#000000" />
+			<Button
+				android:id="@+id/button3"
+				android:layout_width="90dp"
+				android:layout_height="50dp"
+				android:padding="8dp"
+				android:text="Mix"
+				android:textSize="12sp"
+				android:textColor="#000000" />
+			<Button
+				android:id="@+id/button7"
+				android:layout_width="wrap_content"
+				android:layout_height="50dp"
+				android:padding="8dp"
+				android:text="Button"
+				android:textSize="12sp"
+				android:textColor="#000000" />
+			<Button
+				android:id="@+id/button8"
+				android:layout_width="90dp"
+				android:layout_height="50dp"
+				android:padding="8dp"
+				android:text="Privacy policie"
+				android:textSize="12sp"
+				android:textColor="#000000"
+				android:translationY="60.0dp" />
+			<Button
+				android:id="@+id/button10"
+				android:layout_width="90dp"
+				android:layout_height="50dp"
+				android:padding="8dp"
+				android:text="More apps"
+				android:textSize="12sp"
+				android:textColor="#000000"
+				android:translationY="60.0dp" />
+			<Button
+				android:id="@+id/button9"
+				android:layout_width="90dp"
+				android:layout_height="50dp"
+				android:padding="8dp"
+				android:text="About"
+				android:textSize="12sp"
+				android:textColor="#000000"
+				android:translationY="60.0dp" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/linear21"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+			<LinearLayout
+				android:id="@+id/change"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:orientation="vertical">
+				<Button
+					android:id="@+id/btn_for_1"
+					android:layout_width="90dp"
+					android:layout_height="50dp"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="Black void"
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:textColor="#000000"
+					android:translationY="3.0dp" />
+				<Button
+					android:id="@+id/btn_for_2"
+					android:layout_width="wrap_content"
+					android:layout_height="50dp"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="White empty"
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:textColor="#000000"
+					android:translationX="90.0dp"
+					android:translationY="-45.0dp" />
+				<Button
+					android:id="@+id/btn_for_3"
+					android:layout_width="90dp"
+					android:layout_height="50dp"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="Wooden"
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:textColor="#000000"
+					android:translationX="180.0dp"
+					android:translationY="-93.0dp" />
+				<Button
+					android:id="@+id/btn_for_4"
+					android:layout_width="90dp"
+					android:layout_height="50dp"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="Tiles"
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:textColor="#000000"
+					android:translationX="270.0dp"
+					android:translationY="-141.0dp" />
+				<Button
+					android:id="@+id/btn_for_5"
+					android:layout_width="90dp"
+					android:layout_height="50dp"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="Carpet"
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:textColor="#000000"
+					android:translationX="360.0dp"
+					android:translationY="-189.0dp" />
+				<Button
+					android:id="@+id/btn_for_6"
+					android:layout_width="90dp"
+					android:layout_height="50dp"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="orange"
+					android:textSize="12sp"
+					android:textStyle="bold"
+					android:textColor="#000000"
+					android:translationX="450.0dp"
+					android:translationY="-236.0dp" />
+				<ImageView
+					android:id="@+id/openhh"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:layout_marginLeft="58dp"
+					android:src="@drawable/openhh"
+					android:scaleType="fitCenter"
+					android:translationX="10.0dp"
+					android:translationY="-50.0dp"
+					android:scaleX="3.9"
+					android:scaleY="3.9" />
+				<ImageView
+					android:id="@+id/newtom1two"
+					android:layout_width="100dp"
+					android:layout_height="100dp"
+					android:src="@drawable/tom1"
+					android:scaleType="centerCrop"
+					android:translationX="270.0dp"
+					android:translationY="-270.0dp"
+					android:scaleX="1.5"
+					android:scaleY="1.5" />
+				<ImageView
+					android:id="@+id/newtom1three"
+					android:layout_width="100dp"
+					android:layout_height="100dp"
+					android:src="@drawable/tom1"
+					android:scaleType="centerCrop"
+					android:translationX="190.0dp"
+					android:translationY="-270.0dp"
+					android:scaleX="1.5"
+					android:scaleY="1.5" />
+				<ImageView
+					android:id="@+id/newtom1one"
+					android:layout_width="100dp"
+					android:layout_height="100dp"
+					android:src="@drawable/tom1"
+					android:scaleType="centerCrop"
+					android:translationX="410.0dp"
+					android:translationY="-370.0dp"
+					android:scaleX="1.5"
+					android:scaleY="1.5" />
+				<ImageView
+					android:id="@+id/crash1two"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:layout_marginLeft="100dp"
+					android:src="@drawable/splash"
+					android:scaleType="fitCenter"
+					android:translationX="-45.0dp"
+					android:translationY="-570.0dp"
+					android:scaleX="3.5"
+					android:scaleY="3.5" />
+				<ImageView
+					android:id="@+id/snare"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/snare1"
+					android:scaleType="fitCenter"
+					android:translationX="307.0dp"
+					android:translationY="-450.0dp"
+					android:scaleX="4.0"
+					android:scaleY="4.0" />
+				<ImageView
+					android:id="@+id/kick1"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/kick2"
+					android:scaleType="fitCenter"
+					android:translationX="420.0dp"
+					android:translationY="-420.0dp"
+					android:scaleX="4.0"
+					android:scaleY="4.0" />
+				<ImageView
+					android:id="@+id/ride1"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/ride1"
+					android:scaleType="fitCenter"
+					android:translationX="600.0dp"
+					android:translationY="-650.0dp"
+					android:scaleX="4.0"
+					android:scaleY="4.0" />
+				<ImageView
+					android:id="@+id/kick1two"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/kick2"
+					android:scaleType="fitCenter"
+					android:translationX="220.0dp"
+					android:translationY="-520.0dp"
+					android:scaleX="4.0"
+					android:scaleY="4.0" />
+				<ImageView
+					android:id="@+id/floor"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/floor1"
+					android:scaleType="fitCenter"
+					android:translationX="590.0dp"
+					android:translationY="-570.0dp"
+					android:scaleX="5.0"
+					android:scaleY="5.0" />
+				<ImageView
+					android:id="@+id/snare1"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:layout_marginLeft="50dp"
+					android:background="#FF5722"
+					android:src="@drawable/snare1"
+					android:scaleType="fitEnd"
+					android:alpha="0.0"
+					android:translationX="260.0dp"
+					android:translationY="-700.0dp"
+					android:scaleX="2.5"
+					android:scaleY="2.5" />
+				<ImageView
+					android:id="@+id/crash1"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/crash1"
+					android:scaleType="fitCenter"
+					android:translationX="432.0dp"
+					android:translationY="-940.0dp"
+					android:scaleX="3.5"
+					android:scaleY="3.5" />
+				<ImageView
+					android:id="@+id/closehh"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/closehh"
+					android:scaleType="fitCenter"
+					android:translationX="63.0dp"
+					android:translationY="-690.0dp"
+					android:scaleX="3.8"
+					android:scaleY="3.9" />
+				<ImageView
+					android:id="@+id/splash"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/crash1"
+					android:scaleType="fitCenter"
+					android:translationX="150.0dp"
+					android:translationY="-1020.0dp"
+					android:scaleX="3.6"
+					android:scaleY="3.6" />
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>
